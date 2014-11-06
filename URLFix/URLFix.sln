@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLFix", "URLFix\URLFix.csproj", "{411E980F-0B30-49BC-89F5-7E38E4A6AEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411E980F-0B30-49BC-89F5-7E38E4A6AEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411E980F-0B30-49BC-89F5-7E38E4A6AEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411E980F-0B30-49BC-89F5-7E38E4A6AEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411E980F-0B30-49BC-89F5-7E38E4A6AEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
